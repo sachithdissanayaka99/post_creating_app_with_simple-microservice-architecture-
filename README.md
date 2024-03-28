@@ -1,6 +1,9 @@
-# Post Service
+# Social App
 
 This repository contains the backend service responsible for managing posts in our microservices-based social platform.This project done for get the hand on experience on microservice architecture.
+
+
+In here i have make to services post & comment(create and get)
 
 ## Technologies Used
 
